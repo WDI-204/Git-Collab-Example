@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
 	const myName = "James"
+	const someothervariable = "stuff"
 
   return (
     <div className="App">
